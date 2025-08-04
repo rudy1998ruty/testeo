@@ -1,2 +1,2 @@
-# testeo
-practica de curso 
+# Hola buenos dias n.n 
+practica de curso en proceso  
